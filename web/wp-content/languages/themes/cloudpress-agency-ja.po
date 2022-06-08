@@ -1,0 +1,457 @@
+# Translation of Themes - CloudPress Agency in Japanese
+# This file is distributed under the same license as the Themes - CloudPress Agency package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-12 09:04:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - CloudPress Agency\n"
+
+#. Description of the theme
+msgid "CloudPress Agency is a lightweight, elegant and fully featured theme, crafted for businesses, magazines, newspaper, personal blogs, online shops, restaurants, wedding planners, gyms, and more. CloudPress Agency has special features like a slider banner, testimonials, services, and blogs. It's fully responsive and compatible with any device. Easy to use and implement, CloudPress Agency is also compatible with WooCommerce. You can easily import dummy data with the SpiceBox plugin."
+msgstr "CloudPress Agency は、ビジネス、雑誌、新聞、個人のブログ、オンラインショップ、レストラン、ウェディングプランナー、ジムなどのために作られた、軽量でエレガントなフル機能のテーマです。CloudPress Agency には、スライダーバナー、紹介文、サービス、ブログなどの特別な機能があります。完全にレスポンシブ、どのデバイスとも互換性があります。CloudPress Agency は使いやすく実装も簡単で、WooCommerce と互換性があります。SpiceBox プラグインを使用すると、ダミーデータを簡単にインポートできます。"
+
+#. Theme Name of the theme
+msgid "CloudPress Agency"
+msgstr "CloudPress Agency"
+
+#: admin/inc/class-spicethemes-about-page.php:577
+msgid "To display breadcrumbs, please install the Yoast SEO plugin."
+msgstr "パンくずリストを表示するには、Yoast SEO プラグインをインストールしてください。"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: inc/customizer/footer-options.php:41
+msgid "Copyright Content"
+msgstr "著作権コンテンツ"
+
+#: functions.php:73 inc/customizer/footer-options.php:33
+msgid "Proudly powered by <a href=\"https://wordpress.org\"> WordPress</a> | Theme: <a href=\"https://spicethemes.com\" rel=\"nofollow\">CloudPress Agency</a> by SpiceThemes"
+msgstr "Proudly powered by <a href=\"https://wordpress.org\"> WordPress</a> | テーマ：<a href=\"https://spicethemes.com\" rel=\"nofollow\">CloudPress</a> by SpiceThemes"
+
+#: inc/customizer/footer-options.php:23
+msgid "Hide/Show Footer"
+msgstr "フッターを表示 / 非表示"
+
+#: inc/customizer/footer-options.php:6
+msgid "Footer Settings"
+msgstr "フッター設定"
+
+#: inc/customizer/customizer_theme_style.php:33
+msgid "Skin color"
+msgstr "スキンカラー"
+
+#: inc/customizer/customizer_theme_style.php:19
+msgid "Enable custom color skin"
+msgstr "カスタムカラースキンを有効化"
+
+#: inc/customizer/customizer_theme_style.php:7
+msgid "Custom Color Settings"
+msgstr "カスタムカラー設定"
+
+#: inc/header/header-nav.php:78
+msgid "Toggle navigation"
+msgstr "ナビゲーションを切り替え"
+
+#: inc/header/header-nav.php:65
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d 項目"
+
+#: inc/header/header-nav.php:42
+msgctxt "placeholder"
+msgid "Search"
+msgstr "検索"
+
+#: inc/header/header-nav.php:37 inc/header/header-nav.php:42
+msgid "Search"
+msgstr "検索"
+
+#: admin/tab-pages/useful_plugins.php:21
+msgid "Want to get the gist on the latest theme changes? Just consult our changelog below to get a taste of the recent fixes and features implemented."
+msgstr "最新のテーマの変更を知りたいですか？以下の変更履歴を確認して、実装されている最新の修正プログラムと機能を確認してください。"
+
+#: admin/tab-pages/useful_plugins.php:13
+msgid "We want to make sure you have the best experience using CloudPress, and that is why we have gathered all the necessary information here for you. We hope you will enjoy using CloudPress as much as we enjoy creating great products."
+msgstr "CloudPress を使用して最高の経験を持っていることを確認したいので、ここで必要なすべての情報をここに集めました。CloudPress を楽しんでいただければ幸いです。"
+
+#: admin/tab-pages/useful_plugins.php:12 admin/tab-pages/useful_plugins.php:14
+msgid "Contact Support"
+msgstr "お問い合わせサポート"
+
+#: admin/tab-pages/getting-started.php:92
+msgid "Premium Theme Help Docs"
+msgstr "プレミアムテーマヘルプドキュメンテーション"
+
+#: admin/tab-pages/getting-started.php:81
+msgid "Premium Theme Details"
+msgstr "プレミアムテーマの詳細"
+
+#: admin/tab-pages/getting-started.php:71
+msgid "Premium Theme Support"
+msgstr "プレミアムテーマのサポート"
+
+#: admin/tab-pages/getting-started.php:68
+msgid "Your feedback is valuable to us"
+msgstr "フィードバックに感謝します。"
+
+#: admin/tab-pages/getting-started.php:57
+msgid "PRO Demo"
+msgstr "PROデモ"
+
+#: admin/tab-pages/getting-started.php:53
+msgid "Lite Demo"
+msgstr "Lite デモ"
+
+#: admin/tab-pages/getting-started.php:45
+msgid "Useful Links"
+msgstr "便利なリンク集"
+
+#: admin/tab-pages/getting-started.php:36
+msgid "CloudPress Agency theme"
+msgstr "CloudPress Agency テーマ"
+
+#: admin/tab-pages/getting-started.php:30
+msgid "Go to the Customizer"
+msgstr "カスタマイザーへ移動"
+
+#: admin/tab-pages/getting-started.php:27
+msgid "To take full advantage of all the features this theme has to offer, install and activate the SpiceBox plugin. Go to Customize and install the SpiceBox plugin."
+msgstr "このテーマが提供するすべての機能を最大限に活用するには、SpiceBoxプラグインをインストールして有効にします。 カスタマイズに進み、SpiceBoxプラグインをインストールします。"
+
+#: admin/tab-pages/getting-started.php:20
+msgid "You can use this theme for any type of activity. CloudPress Agency is compatible with popular plugins like WPML and Polylang. To help you create an effective and impactful web presence, CloudPress Agency has predefined versions of many pages: Contact, Services, Portfolios, About Us and Blog."
+msgstr "このテーマはどの業種でも使用できます。またWPML、Polylang などの人気プラグインと互換性があります。CloudPress Agency のお問い合わせページ、サービスページ、ポートフォリオ、カラムレイアウトページ、私たちについて、ブログレイアウトページがあらかじめ用意されており、効果的なサイト作成に役立ちます。"
+
+#: admin/tab-pages/getting-started.php:18
+msgid "This theme is ideal for creating corporate and business websites. There is no separate premium version of it, as CloudPress Agency is a child theme of the CloudPress WordPress theme. The premium version, CloudPress PRO has tons of features: a homepage with many sections where you can feature unlimited slides, portfolios, user reviews, latest news, services, calls to action and much more. Each section in the Homepage template is carefully designed to fit to all business requirements."
+msgstr "このテーマは企業やビジネスのサイトを作成するのに最適です。CloudPress Agency は CloudPress の WordPress テーマの子テーマなので、別のプレミアムバージョンがありません。PRO バーションには数多くの機能があります、例えば無制限のスライダ、ポートフォリオ、ユーザーレビュー、最新のニュース、サービス、アクションの呼び出しなど。ホームページテンプレートの各部は、すべてのビジネス要件に合わせて慎重に設計されています。"
+
+#: admin/tab-pages/getting-started.php:12
+msgid "About the CloudPress Agency theme"
+msgstr "CloudPress Agency テーマについて"
+
+#: admin/tab-pages/free_vs_pro.php:151
+msgid "Get PRO Version Now!"
+msgstr "今すぐ PRO バージョンを入手！"
+
+#: admin/tab-pages/free_vs_pro.php:141
+msgid "Premium Support Forum"
+msgstr "プレミアムサポートのフォーラム"
+
+#: admin/tab-pages/free_vs_pro.php:128
+msgid "Wide layout & Boxed Layout"
+msgstr "ワイドレイアウトとボックスレイアウト"
+
+#: admin/tab-pages/free_vs_pro.php:127
+msgid "About, Services, Portfolio, Blog Left & Right Sidebars, Blog Full Width, Page Full Width, Contact Page and much more."
+msgstr "私たちについて、サービス、ポートフォリオ、左または右サイドバーのブログ、全幅のブログ、全幅の固定ページ、お問い合わせページなど。"
+
+#: admin/tab-pages/free_vs_pro.php:125
+msgid "Top Header, Slider [Unlimited], Services [Unlimited], Portfolio [Unlimited], Latest News, Clients, Funfact, Testimonials, Custom Widgets"
+msgstr "トップヘッダー、スライダー [無制限のスライド] 、サービス [無制限] 、コールアウト、ポートフォリオ [無制限プロジェクト] 、最新情報、顧客、お客様の声とカスタムウィジェット"
+
+#: admin/tab-pages/free_vs_pro.php:120
+msgid "PRO"
+msgstr "PRO"
+
+#: admin/tab-pages/free_vs_pro.php:108
+msgid "On WordPress.org Support Forum"
+msgstr "WordPress.orgサポートフォーラム"
+
+#: admin/tab-pages/free_vs_pro.php:104 admin/tab-pages/free_vs_pro.php:137
+msgid "Editable"
+msgstr "編集可能"
+
+#: admin/tab-pages/free_vs_pro.php:95
+msgid "Wide Layout"
+msgstr "ワイドレイアウト"
+
+#: admin/tab-pages/free_vs_pro.php:94
+msgid "Business Template and Full-Width Template"
+msgstr "ビジネステンプレートとフルサイズテンプレート"
+
+#: admin/tab-pages/free_vs_pro.php:89
+msgid "Slider [Static Image], Services [3 Services], Testimonial, Funfact, Latest News"
+msgstr "スライダー [静止画像]、サービス [3 サービス]、体験談、最新ニュース"
+
+#: admin/tab-pages/free_vs_pro.php:83
+msgid "Free"
+msgstr "無料"
+
+#: admin/tab-pages/free_vs_pro.php:69
+msgid "Get instant 24/7 support on our Support Forum."
+msgstr "24時間年中無休のサポートフォーラムを入手しましょう。"
+
+#: admin/tab-pages/free_vs_pro.php:68
+msgid "Support Forum"
+msgstr "サポートフォーラム"
+
+#: admin/tab-pages/free_vs_pro.php:65
+msgid "You can use WPML to make your website multilingual."
+msgstr "WPMLを使用して、サイトを多言語にすることができます。"
+
+#: admin/tab-pages/free_vs_pro.php:64
+msgid "WPML Support"
+msgstr "WPMLサポート"
+
+#: admin/tab-pages/free_vs_pro.php:60
+msgid "You can customize the style without adding any code."
+msgstr "コードを追加せずにスタイルをカスタマイズできます。"
+
+#: admin/tab-pages/free_vs_pro.php:59
+msgid "Typography Settings"
+msgstr "書体設定"
+
+#: admin/tab-pages/free_vs_pro.php:56
+msgid "Footer Credit"
+msgstr "フッターのクレジット"
+
+#: admin/tab-pages/free_vs_pro.php:53
+msgid "Show user feedback on the Homepage."
+msgstr "ユーザーからの意見をホームページで表示"
+
+#: admin/tab-pages/free_vs_pro.php:52
+msgid "Testimonial/Review Section"
+msgstr "お客様の声 / レビューセクション"
+
+#: admin/tab-pages/free_vs_pro.php:49
+msgid "Show all your services in a single place."
+msgstr "すべてのサービスを 1 つの場所で表示"
+
+#: admin/tab-pages/free_vs_pro.php:48
+msgid "Services Page"
+msgstr "「サービス」ページ"
+
+#: admin/tab-pages/free_vs_pro.php:45
+msgid "Show team members and custom content added in the WordPress editor."
+msgstr "WordPressエディッターに追加されたコンテンツをチームメンバとユーザー表示します。"
+
+#: admin/tab-pages/free_vs_pro.php:44
+msgid "About Us Page"
+msgstr "「私たちについて」ページ"
+
+#: admin/tab-pages/free_vs_pro.php:41
+msgid "Present your project/portfolio collection with 2 column, 3 column and 4 column layouts. You can also display your project/portfolio by category."
+msgstr "2カラム、3カラム、4カラムレイアウトを使ってプロジェクト / ポートフォリオコレクションを表示しましょう。カテゴリーごとにプロジェクト / ポートフォリオを表示することもできます。"
+
+#: admin/tab-pages/free_vs_pro.php:40
+msgid "Portfolio"
+msgstr "ポートフォリオ"
+
+#: admin/tab-pages/free_vs_pro.php:38
+msgid "Display your Shop and Business location on your website using Google Maps."
+msgstr "Google マップを使って店舗や事業所の場所を Web サイトに表示しましょう。"
+
+#: admin/tab-pages/free_vs_pro.php:37
+msgid "Google Map"
+msgstr "Google マップ"
+
+#: admin/tab-pages/free_vs_pro.php:35
+msgid "Enjoy any of the 7 preset color schemes, or create your own, without adding any code."
+msgstr "7つのプリセットされたカラースキームをお楽しみください、またはコードを追加せずに独自のカラースキームを作成してください。"
+
+#: admin/tab-pages/free_vs_pro.php:34
+msgid "Mulitple Color Schemes"
+msgstr "複数の配色"
+
+#: admin/tab-pages/free_vs_pro.php:31
+msgid "This theme supports the Contact Form 7 plugin. Use it to build your contact form."
+msgstr "このテーマはContact Form 7プラグインをサポートしています。 それを使用してお問い合わせフォームフォームを作成します。"
+
+#: admin/tab-pages/free_vs_pro.php:30
+msgid "Contact Form Support"
+msgstr "コンタクトフォーム対応"
+
+#: admin/tab-pages/free_vs_pro.php:28
+msgid "Responsive layout in all devices"
+msgstr "すべてのデバイスでレスポンシブレイアウト"
+
+#: admin/tab-pages/free_vs_pro.php:27
+msgid "Mobile Friendly"
+msgstr "モバイルフレンドリー"
+
+#: admin/tab-pages/free_vs_pro.php:25
+msgid "CloudPress supports both a Full-Width and a Boxed layout options. To choose your preference (and switch between them) go to Appearance > Customize."
+msgstr "CloudPress はフル幅とボックスレイアウトの両方のオプションをサポートしています。 あなたの好みを選び（そしてそれらの間で切り替えて）、外観 > カスタマイズに進みます。"
+
+#: admin/tab-pages/free_vs_pro.php:24
+msgid "Layout Options"
+msgstr "レイアウトオプション"
+
+#: admin/tab-pages/free_vs_pro.php:22
+msgid "CloudPress includes various page templates."
+msgstr "CloudPress はさまざまなページテンプレートが含まれています。"
+
+#: admin/tab-pages/free_vs_pro.php:21
+msgid "Page Templates Support"
+msgstr "ページテンプレートサポート"
+
+#: admin/tab-pages/free_vs_pro.php:19
+msgid "You will find a number of sections on the front page."
+msgstr "フロントページに多数のセクションがあります。"
+
+#: admin/tab-pages/free_vs_pro.php:18
+msgid "Frontpage Sections"
+msgstr "フロントページセクション"
+
+#: admin/tab-pages/free_vs_pro.php:14
+msgid "Features"
+msgstr "機能"
+
+#: admin/inc/class-spicethemes-about-page.php:575
+msgid "Yoast SEO"
+msgstr "Yoast SEO"
+
+#: admin/inc/class-spicethemes-about-page.php:571
+msgid "To display the contact form on the contact section in homepage, please install the Contact Form 7 plugin"
+msgstr "ホームページのお問い合わせセクションに連絡フォームを表示するには、Contact Form 7 プラグインをインストールしてください"
+
+#: admin/inc/class-spicethemes-about-page.php:569
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: admin/inc/class-spicethemes-about-page.php:565
+msgid "To access the advance Frontpage sections and other theme features, please install the SpiceBox plugin."
+msgstr "Frontpageの詳細セクションやその他のテーマ機能にアクセスするには、SpiceBox プラグインをインストールしてください。"
+
+#: admin/inc/class-spicethemes-about-page.php:436
+msgid "Active"
+msgstr "有効"
+
+#: admin/inc/class-spicethemes-about-page.php:433
+msgid "Activate"
+msgstr "有効化"
+
+#: admin/inc/class-spicethemes-about-page.php:431
+msgid "Activate %s now"
+msgstr "今%sを有効化"
+
+#: admin/inc/class-spicethemes-about-page.php:412
+msgid "Install %s now"
+msgstr "今すぐ %s をインストール"
+
+#: admin/inc/class-spicethemes-about-page.php:331
+msgid "Free vs. PRO"
+msgstr "無料 vs PRO"
+
+#: admin/inc/class-spicethemes-about-page.php:326
+#: admin/tab-pages/useful_plugins.php:20 admin/tab-pages/useful_plugins.php:22
+msgid "Changelog"
+msgstr "更新履歴"
+
+#: admin/inc/class-spicethemes-about-page.php:319
+msgid "Support"
+msgstr "サポート"
+
+#: admin/inc/class-spicethemes-about-page.php:311
+msgid "Recommended Actions"
+msgstr "おすすめ設定"
+
+#: admin/inc/class-spicethemes-about-page.php:306
+#: admin/tab-pages/getting-started.php:23
+msgid "Getting Started"
+msgstr "始めてみよう"
+
+#: admin/inc/class-spicethemes-about-page.php:252
+msgid "See changelog below:"
+msgstr "下に変更ログを参照してください："
+
+#: admin/inc/class-spicethemes-about-page.php:138
+msgid "Get started with CloudPress Agency theme"
+msgstr "CloudPress Agency のテーマを始めましょう"
+
+#: admin/inc/class-spicethemes-about-page.php:137
+msgid "CloudPress Agency theme is installed. To take full advantage of the features this theme has to offer visit our %1$s welcome page %2$s"
+msgstr "CloudPress Agency テーマがインストールされています。このテーマが提供する機能を最大限に活用するには、%1$sようこそページ%2$sをご覧ください。"
+
+#: admin/inc/class-spicethemes-about-page.php:124
+msgid "Welcome to %1$s %2$s"
+msgstr "%1$sへようこそ - %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:123
+msgid "About %1$s %2$s"
+msgstr "%1$s%2$sについて"
+
+#: admin/inc/class-spicethemes-about-page.php:113
+msgid "View Theme Info"
+msgstr "テーマ情報を見る"
+
+#: admin/inc/include-companion.php:98
+msgid "Activate now"
+msgstr "今すぐ有効化"
+
+#: admin/inc/include-companion.php:97
+msgid "Activate SpiceBox now"
+msgstr "今すぐSpiceBox有効化する。"
+
+#: admin/inc/include-companion.php:96
+msgid "You have installed the SpiceBox plugin. To take advantage of this theme's features in the customizer, you need to activate it."
+msgstr "SpiceBoxプラグインをインストールしました。このテーマが提供するすべての機能を最大限に活用するには、プラグインを有効化してください。"
+
+#: admin/inc/class-spicethemes-about-page.php:414
+#: admin/inc/include-companion.php:81
+msgid "Install and activate"
+msgstr "インストールと有効化"
+
+#: admin/inc/class-spicethemes-about-page.php:563
+#: admin/inc/include-companion.php:80 admin/inc/include-companion.php:97
+msgid "SpiceBox"
+msgstr "SpiceBox"
+
+#: admin/inc/include-companion.php:80
+msgid "Install SpiceBox Now"
+msgstr "今すぐSpiceBoxインストールする"
+
+#: admin/inc/include-companion.php:79
+msgid "To take advantage of this theme's features in the customizer you need to install the SpiceBox plugin."
+msgstr "このテーマが提供するすべての機能を最大限に活用するには、SpiceBoxプラグインをインストールして有効にしてください。"
+
+#: admin/inc/class-spicethemes-about-page.php:74
+#: admin/inc/include-companion.php:43 admin/inc/plugin-include-control.php:42
+msgid "Error"
+msgstr "エラー"
+
+#: admin/inc/class-spicethemes-about-page.php:73
+#: admin/inc/include-companion.php:42 admin/inc/plugin-include-control.php:41
+msgid "Activating"
+msgstr "有効化しています"
+
+#: admin/inc/class-spicethemes-about-page.php:72
+#: admin/inc/include-companion.php:41 admin/inc/plugin-include-control.php:40
+msgid "Installing"
+msgstr "インストール中"
+
+#: template-parts/index-news.php:64
+msgid "By"
+msgstr "作者"
+
+#: template-parts/index-news.php:55
+msgid "READ MORE"
+msgstr "続きを読む"
+
+#: template-parts/index-news.php:3
+msgid "Cras Vitae Placerat"
+msgstr "Cras Vitae Placerat"
+
+#: template-parts/index-news.php:2
+msgid "Vitae Lacinia"
+msgstr "Vitae Lacinia"
+
+#. Author URI of the theme
+msgid "https://spicethemes.com"
+msgstr "https://spicethemes.com"
+
+#. Author of the theme
+msgid "spicethemes"
+msgstr "spicethemes"
+
+#. Theme URI of the theme
+msgid "https://spicethemes.com/cloudpress-agency-wordpress-theme/"
+msgstr "https://spicethemes.com/cloudpress-agency-wordpress-theme/"

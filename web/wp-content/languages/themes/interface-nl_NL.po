@@ -1,0 +1,889 @@
+# Translation of Themes - Interface in Dutch
+# This file is distributed under the same license as the Themes - Interface package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-10-05 21:01:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Themes - Interface\n"
+
+#. Description of the theme
+msgid "Interface is a Simple, Clean and Flat Responsive Business WordPress Theme. It is easily customizable with numerous theme options via Customize. Some of the highlighted options are two site layout (Narrow and Wide), 4 layouts for every post/page, 5 Page Templates, 8 widget areas, 6 custom widgets, featured slider to highlight your post/page, 10 social icons, top and bottom info bar to hightlight your contact/email/location and many more. Also has custom background, header, menu, favicon, CSS, webclip icon, and logo. Supports popular plugins like WooCommerce, bbPress and many more. It is also translation ready. Available Translation: Russian. Get free support at https://www.themehorse.com/support-forum/ and view beautiful demo site at https://www.themehorse.com/preview/interface"
+msgstr "Interface is een eenvoudig, schoon en plat, responsive WordPress thema voor bedrijven. Het is gemakkelijk aanpasbaar met talloze thema-opties via Aanpassen. Enkele van de gemarkeerde opties zijn twee site lay-outs (smal en breed), 4 lay-outs voor elke bericht/pagina, 5 pagina templates, 8 widget gebieden, 6 aangepaste widgets, een uitgelichte slider om je bericht/pagina te markeren, 10 sociale pictogrammen, bovenaan en onderste informatiebalk om je contact/e-mail/locatie en nog veel meer te markeren. Heb ook een aangepaste achtergrond, header, menu, favicon, CSS, webclip pictogram en logo. Ondersteunt populaire plugins zoals WooCommerce, bbPress en nog veel meer. Het is ook klaar voor vertaling. Beschikbare vertaling: Russisch. Krijg gratis ondersteuning op https://www.themehorse.com/support-forum/ en bekijk de prachtige demosite op https://www.themehorse.com/preview/interface"
+
+#. Theme Name of the theme
+msgid "Interface"
+msgstr "Interface"
+
+#: inc/functions/customizer.php:727
+msgid "Interface Pro"
+msgstr "Interface Pro"
+
+#: inc/functions/customizer.php:491
+msgid "Shuffle"
+msgstr "Shuffle"
+
+#: inc/functions/customizer.php:490
+msgid "Cover"
+msgstr "Geheel bedekt"
+
+#: inc/functions/customizer.php:489
+msgid "Blind Z"
+msgstr "Blinde Z"
+
+#: inc/functions/customizer.php:488
+msgid "Blind Y"
+msgstr "Blinde Y"
+
+#: inc/functions/customizer.php:487
+msgid "Blind X"
+msgstr "Blinde X"
+
+#: inc/functions/customizer.php:486
+msgid "Scroll Right"
+msgstr "Scroll naar rechts"
+
+#: inc/functions/customizer.php:485
+msgid "Scroll Left"
+msgstr "Scroll naar links"
+
+#: inc/functions/customizer.php:484
+msgid "Scroll Down"
+msgstr "Naar beneden scrollen"
+
+#: inc/functions/customizer.php:483
+msgid "Scroll Up"
+msgstr "Scroll naar boven"
+
+#: inc/functions/customizer.php:482
+msgid "Wipe"
+msgstr "vegen"
+
+#: inc/functions/customizer.php:481
+msgid "Fade"
+msgstr "Fade"
+
+#: inc/functions/customizer.php:452
+msgid "OFF (Slider Content will not be displayed)"
+msgstr "UIT (inhoud van slider wordt niet weergegeven)"
+
+#: inc/functions/customizer.php:451
+msgid "ON (Slider Content will be displayed)"
+msgstr "AAN (inhoud van slider wordt weergegeven)"
+
+#: inc/functions/customizer.php:394
+msgid "Only posts that belong to the categories selected here will be displayed on the front page. ( You may select multiple categories by holding down the CTRL key. ) "
+msgstr "Alleen berichten die tot de hier geselecteerde categorieën behoren, worden op de startpagina weergegeven. (Je kunt meerdere categorieën selecteren door de CTRL-toets ingedrukt te houden.)"
+
+#: inc/functions/customizer.php:372
+msgid "TThe appropriate length of the slogan is around 10 words."
+msgstr "De juiste lengte van de slogan is ongeveer 10 woorden."
+
+#: inc/functions/customizer.php:251
+msgid "OFF(Full site will display as desktop view)"
+msgstr "UIT (volledige site wordt weergegeven als bureaubladweergave)"
+
+#: inc/functions/customizer.php:250
+msgid "ON(Responsive view will be displayed in small devices )"
+msgstr "AAN (responsive weergave wordt weergegeven op kleine apparaten)"
+
+#: inc/functions/customizer.php:162
+msgid "Interface Support"
+msgstr "Interface ondersteuning"
+
+#: inc/functions/customizer.php:175
+msgid "Interface Upgrade"
+msgstr "Interface upgrade"
+
+#: inc/admin/interface-metaboxes.php:38
+msgid "Customizer"
+msgstr "Customizer"
+
+#. Template Name of the theme
+msgid "Contact Page Template"
+msgstr "Contactpagina template"
+
+#. Template Name of the theme
+msgid "Business Template"
+msgstr "Bedrijf template"
+
+#. Template Name of the theme
+msgid "Blog Image Medium"
+msgstr "Blogafbeelding medium"
+
+#. Template Name of the theme
+msgid "Blog Image Large"
+msgstr "Blogafbeelding groot"
+
+#. Template Name of the theme
+msgid "Blog Full Content Display"
+msgstr "Blog Volledige inhoudsweergave"
+
+#: inc/widgets/interface_widgets.php:754
+msgid "Redirect Link:"
+msgstr "Omleiding link:"
+
+#: inc/widgets/interface_widgets.php:740
+msgid "Number of Images:"
+msgstr "Aantal afbeeldingen:"
+
+#: inc/widgets/interface_widgets.php:734
+msgid "Image Title:"
+msgstr "Titel afbeelding:"
+
+#: inc/widgets/interface_widgets.php:730
+msgid "Note: Recommended size for the image is 400px (width) and 150px (height). If you want more image adding fields then first enter the number and click on Save, this will allow you more image adding fields"
+msgstr "Opmerking:de aanbevolen grootte voor de afbeelding is 400 px (breedte) en 150 px (hoogte). Als je meer velden voor het toevoegen van afbeeldingen wil, voer dan eerst het nummer in en klik op Opslaan, zodat je meer velden voor het toevoegen van afbeeldingen kunt gebruiken"
+
+#: inc/widgets/interface_widgets.php:713
+msgid "Use to show your clients logos or any thing."
+msgstr "Gebruik om logo's van je klanten of iets anders te laten zien."
+
+#: inc/widgets/interface_widgets.php:701
+msgid "Company Link 2:"
+msgstr "Bedrijf link 2:"
+
+#: inc/widgets/interface_widgets.php:695
+msgid "Comapany Name 2:"
+msgstr "Bedrijfsnaam 2:"
+
+#: inc/widgets/interface_widgets.php:689
+msgid "Designation 2:"
+msgstr "Benaming 2:"
+
+#: inc/widgets/interface_widgets.php:683
+msgid "Name 2:"
+msgstr "Naam 2:"
+
+#: inc/widgets/interface_widgets.php:679
+msgid "Testimonial Description 2"
+msgstr "Aanbeveling Beschrijving 2"
+
+#: inc/widgets/interface_widgets.php:677
+msgid "Upload Image 2"
+msgstr "Upload afbeelding 2"
+
+#: inc/widgets/interface_widgets.php:670
+msgid "Company Link 1:"
+msgstr "Bedrijf link 1:"
+
+#: inc/widgets/interface_widgets.php:664
+msgid "Comapany Name 1:"
+msgstr "Bedrijfsnaam 1:"
+
+#: inc/widgets/interface_widgets.php:658
+msgid "Designation 1:"
+msgstr "Benaming 1:"
+
+#: inc/widgets/interface_widgets.php:652
+msgid "Name 1:"
+msgstr "Naam 1:"
+
+#: inc/widgets/interface_widgets.php:648
+msgid "Testimonial Description 1"
+msgstr "Aanbeveling Beschrijving 1"
+
+#: inc/widgets/interface_widgets.php:646
+msgid "Upload Image 1"
+msgstr "Upload afbeelding 1"
+
+#: inc/widgets/interface_widgets.php:547
+msgid "Theme Horse: Testimonial"
+msgstr "Theme Horse: Testimonial"
+
+#: inc/widgets/interface_widgets.php:545
+msgid "Display Testimonial( Business Layout )recommendation size (168 * 168)"
+msgstr "Aanbevelingsgrootte van getuigschrift (Bedrijf lay-out) weergeven (168 * 168)"
+
+#: inc/widgets/interface_widgets.php:424
+msgid "Description"
+msgstr "Beschrijving"
+
+#: inc/widgets/interface_widgets.php:394
+msgid "Theme Horse: Featured Recent Work"
+msgstr "Theme Horse: Featured Recent Work"
+
+#: inc/widgets/interface_widgets.php:392
+msgid "Use this widget to show recent work, portfolio or any pages as your wish ( Business Layout )"
+msgstr "Gebruik deze widget om recent werk, portfolio of pagina's naar wens te tonen (Bedrijf lay-out)"
+
+#: inc/widgets/interface_widgets.php:375 inc/widgets/interface_widgets.php:434
+msgid "Redirect Url:"
+msgstr "Omleiding URL:"
+
+#: inc/widgets/interface_widgets.php:369 inc/widgets/interface_widgets.php:428
+msgid "Redirect Text:"
+msgstr "Omleidingstekst:"
+
+#: inc/widgets/interface_widgets.php:365
+msgid "Secondary Promotional"
+msgstr "Secundaire promotie"
+
+#: inc/widgets/interface_widgets.php:361
+msgid "Primary Promotional:"
+msgstr "Primaire promotie:"
+
+#: inc/widgets/interface_widgets.php:313
+msgid "Theme Horse: PromoBox"
+msgstr "Theme Horse: PromoBox"
+
+#: inc/widgets/interface_widgets.php:311
+msgid "Display PromoBox( Business Layout )"
+msgstr "PromoBox weergeven (bedrijfslay-out)"
+
+#: inc/widgets/interface_widgets.php:221 inc/widgets/interface_widgets.php:443
+msgid "Page"
+msgstr "Pagina"
+
+#: inc/widgets/interface_widgets.php:204
+msgid "Theme Horse: Services"
+msgstr "Theme Horse: Services"
+
+#: inc/widgets/interface_widgets.php:202
+msgid "Display Services( Business Layout )"
+msgstr "Weergaveservices (bedrijf lay-out)"
+
+#: inc/widgets/interface_widgets.php:187 inc/widgets/interface_widgets.php:420
+#: inc/widgets/interface_widgets.php:639
+msgid "Title:"
+msgstr "Titel:"
+
+#: inc/widgets/interface_widgets.php:134
+msgid "Theme Horse: Custom Tag Cloud"
+msgstr "Theme Horse: Custom Tag Cloud"
+
+#: inc/widgets/interface_widgets.php:132
+msgid "Displays Custom Tag Cloud"
+msgstr "Toont aangepaste tag cloud"
+
+#: inc/widgets/interface_widgets.php:104
+msgid "Shows widgets at footer Column 3."
+msgstr "Toont widgets in footer Kolom 3."
+
+#: inc/widgets/interface_widgets.php:102
+msgid "Footer - Column3"
+msgstr "Footer - Kolom3"
+
+#: inc/widgets/interface_widgets.php:93
+msgid "Shows widgets at footer Column 2."
+msgstr "Toont widgets in footer Kolom 2."
+
+#: inc/widgets/interface_widgets.php:91
+msgid "Footer - Column2"
+msgstr "Footer - Kolom2"
+
+#: inc/widgets/interface_widgets.php:82
+msgid "Shows widgets at footer Column 1."
+msgstr "Toont widgets in footer Kolom 1."
+
+#: inc/widgets/interface_widgets.php:80
+msgid "Footer - Column1"
+msgstr "Footer - Kolom1"
+
+#: inc/widgets/interface_widgets.php:68
+msgid "Shows widgets on Contact Page Template."
+msgstr "Toont widgets op Contactpagina Template"
+
+#: inc/widgets/interface_widgets.php:66
+msgid "Contact Page Sidebar"
+msgstr "Contact pagina zijbalk"
+
+#: inc/widgets/interface_widgets.php:56
+msgid "Shows widgets on Business Page Template at bottom of the page. Suitable widget: Theme Horse: Featured Image"
+msgstr "Toont widgets op bedrijfspagina template onder aan de pagina. Geschikte widget: Theme Horse: Featured Image"
+
+#: inc/widgets/interface_widgets.php:54
+msgid "Business Page Our Clients Section"
+msgstr "Bedrijfspagina Onze klanten sectie"
+
+#: inc/widgets/interface_widgets.php:44
+msgid "Shows widgets on Business Page Template. Suitable widget: Theme Horse: Featured Recent Work, Theme Horse: Testimonial, Theme Horse: Services, Theme Horse: PromoBox"
+msgstr "Toont widgets op bedrijfspagina template. Geschikte widget: Theme Horse: Uitgelichte Recent Work, Theme Horse: Aanbeveling, Theme Horse: Services, Theme Horse: PromoBox"
+
+#: inc/widgets/interface_widgets.php:42
+msgid "Business Page Section"
+msgstr "Bedrijfspagina sectie"
+
+#: inc/widgets/interface_widgets.php:33
+msgid "Shows widgets at Right side."
+msgstr "Laat de Widgets aan de rechterkant zien."
+
+#: inc/widgets/interface_widgets.php:22
+msgid "Shows widgets at Left side."
+msgstr "Laat de Widgets aan de linkerkant zien."
+
+#: inc/structure/searchform-extensions.php:22
+#: inc/structure/searchform-extensions.php:24
+#: inc/structure/searchform-extensions.php:25
+msgid "Search"
+msgstr "Zoeken"
+
+#: inc/structure/header-extensions.php:489
+msgid "Search Results"
+msgstr "Zoekresultaten"
+
+#: inc/structure/header-extensions.php:486
+msgid "Page NOT Found"
+msgstr "Pagina niet gevonden"
+
+#: inc/structure/header-extensions.php:193
+msgid "%1$s on %2$s"
+msgstr "%1$s op %2$s"
+
+#: inc/structure/header-extensions.php:119
+msgid "\" Mail Us \""
+msgstr "\"Mail ons \""
+
+#: inc/structure/header-extensions.php:109
+msgid "\" Call Us \""
+msgstr "\"Bel ons \""
+
+#: inc/structure/footer-extensions.php:70
+msgid "Powered by: "
+msgstr "Aangedreven door: "
+
+#: inc/structure/footer-extensions.php:70
+msgid "Theme by: "
+msgstr "Thema door:"
+
+#: inc/structure/footer-extensions.php:68
+msgid "Copyright &copy; "
+msgstr "Copyright &copy;"
+
+#: inc/structure/content-extensions.php:1043
+msgid "Check for a mis-typed URL error, then press the refresh button on your browser."
+msgstr "Controleer op een verkeerd getypte URL fout en druk vervolgens op de knop Vernieuwen in je browser."
+
+#: inc/structure/content-extensions.php:1040
+msgid "Please try the following instead:"
+msgstr "Probeer in plaats daarvan het volgende:"
+
+#: inc/structure/content-extensions.php:1037
+msgid "You have typed the web address incorrectly, or the page you were looking for may have been moved, updated or deleted."
+msgstr "Je hebt het webadres foutief ingegeven, of de pagina die je wou bezoeken is verplaatst, aangepast of verwijderd."
+
+#: inc/structure/content-extensions.php:1034
+msgid "This might be because:"
+msgstr "Mogelijke redenen:"
+
+#: inc/structure/content-extensions.php:1031
+msgid "It seems we can't find what you're looking for."
+msgstr "Het lijkt er op dat we niet kunnen vinden wat u zocht."
+
+#: inc/structure/content-extensions.php:1026
+msgid "Error 404-Page NOT Found"
+msgstr "Fout 404 - Pagina niet gevonden"
+
+#: inc/structure/content-extensions.php:939
+msgid "Reply <span>&darr;</span>"
+msgstr "Antwoorden <span>&darr;</span>"
+
+#: inc/structure/content-extensions.php:934
+msgid "Edit"
+msgstr "Bewerken"
+
+#: inc/structure/content-extensions.php:929
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie is in afwachting van moderatie."
+
+#. translators: 1: date, 2: time
+#: inc/structure/content-extensions.php:921
+msgid "%1$s at %2$s"
+msgstr "%1$s om %2$s"
+
+#: inc/structure/content-extensions.php:915
+msgid "Post author"
+msgstr "Bericht auteur"
+
+#: inc/structure/content-extensions.php:899
+msgid "(Edit)"
+msgstr "(bewerken)"
+
+#: inc/structure/content-extensions.php:897
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/structure/content-extensions.php:857
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/structure/content-extensions.php:854
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/structure/content-extensions.php:845
+msgid "Next &rarr;"
+msgstr "Volgende &rarr;"
+
+#: inc/structure/content-extensions.php:842
+msgid "&larr; Previous"
+msgstr "&larr; Vorige"
+
+#: inc/structure/content-extensions.php:534
+#: inc/structure/content-extensions.php:658
+#: inc/structure/content-extensions.php:779
+#: inc/structure/content-extensions.php:821
+msgid "Next &raquo;"
+msgstr "Volgende &raquo;"
+
+#: inc/structure/content-extensions.php:531
+#: inc/structure/content-extensions.php:655
+#: inc/structure/content-extensions.php:776
+#: inc/structure/content-extensions.php:818
+msgid "&laquo; Previous"
+msgstr "&laquo; Vorige"
+
+#: inc/structure/content-extensions.php:223
+#: inc/structure/content-extensions.php:325
+#: inc/structure/content-extensions.php:745
+#: inc/structure/content-extensions.php:972
+msgid "Pages:"
+msgstr "Pagina&#39;s:"
+
+#: inc/structure/content-extensions.php:192
+#: inc/structure/content-extensions.php:255
+#: inc/structure/content-extensions.php:373
+#: inc/structure/content-extensions.php:420
+#: inc/structure/content-extensions.php:544
+#: inc/structure/content-extensions.php:668
+#: inc/structure/content-extensions.php:789
+#: inc/structure/content-extensions.php:998
+msgid "No Posts Found."
+msgstr "Geen berichten gevonden."
+
+#: inc/structure/content-extensions.php:173
+#: inc/structure/content-extensions.php:511
+#: inc/structure/content-extensions.php:637
+#: inc/structure/content-extensions.php:742
+#: inc/widgets/interface_widgets.php:289
+msgid "Read more"
+msgstr "Meer lezen"
+
+#: inc/structure/content-extensions.php:166
+#: inc/structure/content-extensions.php:341
+#: inc/structure/content-extensions.php:504
+#: inc/structure/content-extensions.php:631
+#: inc/structure/content-extensions.php:755
+#: inc/structure/footer-extensions.php:90
+msgid " "
+msgstr " "
+
+#: inc/structure/content-extensions.php:154
+#: inc/structure/content-extensions.php:313
+#: inc/structure/content-extensions.php:492
+#: inc/structure/content-extensions.php:606
+#: inc/structure/content-extensions.php:731
+msgid "Comments Off"
+msgstr "Reageren uitgeschakeld"
+
+#: inc/structure/content-extensions.php:154
+#: inc/structure/content-extensions.php:313
+#: inc/structure/content-extensions.php:492
+#: inc/structure/content-extensions.php:606
+#: inc/structure/content-extensions.php:731
+msgid "% Comments"
+msgstr "% reacties"
+
+#: inc/structure/content-extensions.php:154
+#: inc/structure/content-extensions.php:313
+#: inc/structure/content-extensions.php:492
+#: inc/structure/content-extensions.php:606
+#: inc/structure/content-extensions.php:731
+msgid "1 Comment"
+msgstr "1 reactie"
+
+#: inc/structure/content-extensions.php:154
+#: inc/structure/content-extensions.php:313
+#: inc/structure/content-extensions.php:492
+#: inc/structure/content-extensions.php:606
+#: inc/structure/content-extensions.php:731
+msgid "No Comments"
+msgstr "Geen reacties"
+
+#: inc/functions/functions.php:300
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: inc/footer_info/interface-footer_info.php:33
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/functions/customizer.php:634
+msgid "Social Links"
+msgstr "Sociale links"
+
+#: inc/structure/header-extensions.php:171 inc/functions/customizer.php:649
+msgid "RSS"
+msgstr "RSS"
+
+#: inc/structure/header-extensions.php:170 inc/functions/customizer.php:648
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/structure/header-extensions.php:169 inc/functions/customizer.php:647
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/structure/header-extensions.php:168 inc/functions/customizer.php:646
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/structure/header-extensions.php:167 inc/functions/customizer.php:645
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/structure/header-extensions.php:166 inc/functions/customizer.php:644
+msgid "Youtube"
+msgstr "YouTube"
+
+#: inc/structure/header-extensions.php:165 inc/functions/customizer.php:643
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/structure/header-extensions.php:164 inc/functions/customizer.php:642
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/structure/header-extensions.php:163 inc/functions/customizer.php:641
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/structure/header-extensions.php:162 inc/functions/customizer.php:640
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/functions/customizer.php:626
+msgid "Enter your Address"
+msgstr "Voer je adres in"
+
+#: inc/functions/customizer.php:625
+msgid "Location Only"
+msgstr "Alleen locatie"
+
+#: inc/functions/customizer.php:612
+msgid "Enter your Email ID"
+msgstr "Voer je e-mailadres in"
+
+#: inc/functions/customizer.php:611
+msgid "Email ID Only"
+msgstr "Alleen e-mail ID"
+
+#: inc/functions/customizer.php:598
+msgid "Enter your Phone number only"
+msgstr "Voer alleen je telefoonnummer in"
+
+#: inc/functions/customizer.php:597
+msgid "Phone Number"
+msgstr "Telefoonnummer"
+
+#: inc/functions/customizer.php:584
+msgid "Disable Bottom Info Bar"
+msgstr "Schakel onderste infobalk uit"
+
+#: inc/functions/customizer.php:571
+msgid "Disable Top Info Bar"
+msgstr "Schakel top infobalk uit"
+
+#: inc/functions/customizer.php:559
+msgid "Contact Info Bar"
+msgstr "Contact infobalk"
+
+#: inc/functions/customizer.php:550
+msgid " Featured Slider Post/Page #"
+msgstr " Uitgelichte slider Bericht/Pagina #"
+
+#: inc/functions/customizer.php:534
+msgid "Check to exclude"
+msgstr "Klik aan om de posts in de slider niet meer weer te geven bij de recente berichten"
+
+#: inc/functions/customizer.php:535
+msgid "Exclude Slider post from Homepage posts?"
+msgstr "Posts in de slider niet meer weergeven op de homepagina?"
+
+#: inc/functions/customizer.php:522
+msgid "Featured Post/ Page Slider Options"
+msgstr "Uitgelicht bericht/pagina slider opties"
+
+#: inc/functions/customizer.php:515
+msgid "Transition Length"
+msgstr "Duur van overgang"
+
+#: inc/functions/customizer.php:502
+msgid "Transition Delay"
+msgstr "Overgangstijd"
+
+#: inc/functions/customizer.php:476
+msgid "Transition Effect"
+msgstr "Overgangs effect:"
+
+#: inc/functions/customizer.php:463
+msgid "Number of Slides"
+msgstr "Aantal slides"
+
+#: inc/functions/customizer.php:445
+msgid "Slider Content"
+msgstr "Slider inhoud"
+
+#: inc/functions/customizer.php:432
+msgid "Disable Slider"
+msgstr "Silder utischakelen"
+
+#: inc/functions/customizer.php:420
+msgid "Slider Options"
+msgstr "Slider opties"
+
+#: inc/functions/customizer.php:45
+msgid "--Disabled--"
+msgstr "--Uitgeschakeld--"
+
+#: inc/functions/customizer.php:409
+msgid "Front page posts categories"
+msgstr "Startpagina berichten categorieën:"
+
+#: inc/functions/customizer.php:393
+msgid "Homepage Blog Category Setting"
+msgstr "Homepage Blog Categorie Instelling"
+
+#: inc/functions/customizer.php:384
+msgid "Home Page Secondary Slogan"
+msgstr "Secundaire slogan op de homepage"
+
+#: inc/functions/customizer.php:385
+msgid "The appropriate length of the slogan is around 10 words."
+msgstr "De juiste lengte van de slogan is ongeveer 10 woorden."
+
+#: inc/functions/customizer.php:371
+msgid "Home Page Primary Slogan"
+msgstr "Primaire slogan op de homepage"
+
+#: inc/functions/customizer.php:361
+msgid "Below Slider"
+msgstr "Onder slider"
+
+#: inc/functions/customizer.php:360
+msgid "Above Slider"
+msgstr "Boven slider"
+
+#: inc/functions/customizer.php:354
+msgid "Slogan Position"
+msgstr "Slogan positie"
+
+#: inc/functions/customizer.php:342
+msgid "Disable Slogan Part"
+msgstr "Schakel slogan deel uit"
+
+#: inc/functions/customizer.php:331
+msgid "Home Slogan Options"
+msgstr "Home slogan opties"
+
+#: inc/functions/customizer.php:322
+msgid "This CSS will overwrite the CSS of style.css file."
+msgstr "Deze CSS zal de CSS van het bestand style.css overschrijven"
+
+#: inc/functions/customizer.php:321
+msgid "Enter your custom CSS styles."
+msgstr "Voer je eigen CSS in."
+
+#: inc/functions/customizer.php:310
+msgid "Custom CSS"
+msgstr "Aangepaste CSS"
+
+#: inc/functions/customizer.php:269
+msgid "Hide Searchform from Header"
+msgstr "Verberg zoekformulier van header"
+
+#: inc/functions/customizer.php:305
+msgid "Disable"
+msgstr "Uitschakelen"
+
+#: inc/functions/customizer.php:304
+msgid "Header Text Only"
+msgstr "Alleen hoofd tekst"
+
+#: inc/functions/customizer.php:303
+msgid "Header Logo Only"
+msgstr "Alleen hoofd logo"
+
+#: inc/functions/customizer.php:297
+msgid "Show"
+msgstr "Tonen"
+
+#: inc/functions/customizer.php:284
+msgid "Header Logo"
+msgstr "Hoofd logo"
+
+#: inc/functions/customizer.php:258
+msgid "Custom Header"
+msgstr "Header aanpassen"
+
+#: inc/functions/customizer.php:233 inc/functions/customizer.php:244
+msgid "Responsive Layout"
+msgstr "Responsive lay-out"
+
+#: inc/widgets/interface_widgets.php:31 inc/functions/customizer.php:228
+msgid "Right Sidebar"
+msgstr "Zijbalk rechts"
+
+#: inc/widgets/interface_widgets.php:20 inc/functions/customizer.php:227
+msgid "Left Sidebar"
+msgstr "Zijbalk links"
+
+#: inc/functions/customizer.php:226
+msgid "No Sidebar, Full Width"
+msgstr "Geen zijbalk, volledige breedte"
+
+#: inc/functions/customizer.php:225
+msgid "No Sidebar"
+msgstr "Geen zijbalk"
+
+#: inc/functions/customizer.php:219
+msgid "Layouts"
+msgstr "Lay-outs"
+
+#: inc/functions/customizer.php:208
+msgid "Content Layout"
+msgstr "Inhoud lay-out"
+
+#: inc/functions/customizer.php:203
+msgid "Wide Layout"
+msgstr "Brede lay-out"
+
+#: inc/functions/customizer.php:202
+msgid "Narrow Layout"
+msgstr "Smalle lay-out"
+
+#: inc/functions/customizer.php:196
+msgid "This change is reflected in whole website"
+msgstr "Deze verandering wordt weerspiegeld in de hele site"
+
+#: inc/functions/customizer.php:184 inc/functions/customizer.php:195
+msgid "Site Layout"
+msgstr "Site lay-out"
+
+#: inc/functions/customizer.php:155
+msgid "Contact / Social Links"
+msgstr "Contact / sociale links"
+
+#: inc/functions/customizer.php:149
+msgid "Featured Post/Page Slider"
+msgstr "Uitgelichte bericht/pagina slider"
+
+#: inc/functions/customizer.php:143
+msgid "Advance Options"
+msgstr "Geavanceerde opties"
+
+#: inc/functions/customizer.php:137
+msgid "Design Options"
+msgstr "Design opties"
+
+#: inc/functions/customizer.php:132
+msgid "Layout Options"
+msgstr "Lay-out opties"
+
+#: inc/functions/customizer.php:24
+msgid "View Demo"
+msgstr "Bekijk Demo"
+
+#: inc/functions/customizer.php:23
+msgid "Interface Demo"
+msgstr "Interface demo"
+
+#: inc/functions/customizer.php:20 inc/functions/customizer.php:21
+msgid "Support Forum"
+msgstr "Support forum"
+
+#: inc/functions/customizer.php:18
+msgid "Theme Instructions"
+msgstr "Thema instructies"
+
+#: inc/functions/customizer.php:17
+msgid "Interface Theme Instructions"
+msgstr "Interface thema instructies"
+
+#: inc/functions/customizer.php:15
+msgid "Rate Interface"
+msgstr "Waardeer Interface"
+
+#: inc/functions/customizer.php:14
+msgid "Review Interface"
+msgstr "Beoordeel interface"
+
+#: inc/functions/customizer.php:728
+msgid "Upgrade to Pro"
+msgstr "Upgrade naar Pro"
+
+#: inc/admin/interface-metaboxes.php:63
+msgid "Right sidebar"
+msgstr "Zijbalk rechts"
+
+#: inc/admin/interface-metaboxes.php:57
+msgid "Left sidebar"
+msgstr "Zijbalk links"
+
+#: inc/admin/interface-metaboxes.php:50
+msgid "No sidebar, Full Width"
+msgstr "Geen zijbalk, volledige breedte"
+
+#: inc/admin/interface-metaboxes.php:44
+msgid "No sidebar"
+msgstr "Geen zijbalk"
+
+#: inc/admin/interface-metaboxes.php:38
+msgid "Default Layout Set in"
+msgstr "Standaard lay-out geselecteerd in"
+
+#: inc/admin/interface-metaboxes.php:25
+msgid "Select layout for this specific Post only"
+msgstr "Selecteer een lay-out voor dit specifieke bericht."
+
+#: inc/admin/interface-metaboxes.php:19
+msgid "Select layout for this specific Page only ( Note: This setting only reflects if page Template is set as Default Template and Blog Type Templates.)"
+msgstr "Selecteer een lay-out voor deze specifieke pagina. (Let op: Deze instelling heeft alleen effect als de pagina template is gezet als standaard template en blog type templates.)"
+
+#: functions.php:138
+msgid "Primary Menu"
+msgstr "Primair menu"
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: comments.php:51
+msgid "Newer Comments &rarr;"
+msgstr "Nieuwere reacties &rarr;"
+
+#: comments.php:48
+msgid "&larr; Older Comments"
+msgstr "&larr; Oudere reacties"
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr "Reactienavigatie"
+
+#: comments.php:33
+msgid "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr "%1$s gedachtes aan &ldquo;%2$s&rdquo;"
+
+#: comments.php:30
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr "Een gedachte aan &ldquo;%2$s&rdquo;"
+
+#. Author URI of the theme
+msgid "https://www.themehorse.com"
+msgstr "https://www.themehorse.com"
+
+#. Theme URI of the theme
+msgid "https://www.themehorse.com/themes/interface"
+msgstr "https://www.themehorse.com/themes/interface"
+
+#. Author of the theme
+#: inc/footer_info/interface-footer_info.php:41
+msgid "Theme Horse"
+msgstr "Theme Horse"

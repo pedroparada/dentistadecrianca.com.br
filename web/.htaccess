@@ -1,0 +1,14 @@
+<IfModule mod_rewrite.c>
+Options +FollowSymLinks
+RewriteEngine on
+RewriteBase /
+RewriteRule ^.*[-](\d+)/$ mainto/index\.php?id=$1&%{QUERY_STRING} [L]
+RewriteRule ^.*f/(.*)/$ mainto/index\.php?cat=$1&%{QUERY_STRING} [L]
+
+</IfModule>
+# BEGIN WordPress
+# As diretrizes (linhas) entre "BEGIN WordPress" e "END WordPress" são
+# geradas dinamicamente e só devem ser modificadas através de filtros do WordPress.
+# Quaisquer alterações nas diretivas entre esses marcadores serão sobrescritas.
+
+# END WordPress

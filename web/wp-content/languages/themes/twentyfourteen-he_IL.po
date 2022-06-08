@@ -1,0 +1,459 @@
+# Translation of Themes - Twenty Fourteen in Hebrew
+# This file is distributed under the same license as the Themes - Twenty Fourteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-07-08 09:12:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: he_IL\n"
+"Project-Id-Version: Themes - Twenty Fourteen\n"
+
+#. Description of the theme
+msgid "In 2014, our default theme lets you create a responsive magazine website with a sleek, modern design. Feature your favorite homepage content in either a grid or a slider. Use the three widget areas to customize your website, and change your content's layout with a full-width page template and a contributor page to show off your authors. Creating a magazine website with WordPress has never been easier."
+msgstr "תבנית ברירת המחדל לשנת 2014 מאפשרת ליצור אתר דמוי מגזין המותאם גם להצגה במכשירים סלולריים וטאבלטים. הציגו את התוכן האהוב עליכם בעמוד הראשי באמצעות סליידר או רשת תמונות. עשו שימוש בשלושת אזורי הווידג'טים השונים להתאים את האתר והתוכן לצרכים שלכם. בנוסף, כוללת התבנית גם תצוגה ברוחב-מלא לעמודים, ועמוד כותבים להצגת הכותבים באתר. יצירת אתר דמוי מגזין עם וורדפרס מעולם לא הייתה קלה יותר."
+
+#. Theme Name of the theme
+#: inc/customizer.php:162
+msgid "Twenty Fourteen"
+msgstr "Twenty Fourteen"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "רוחב מלא"
+
+#. Template Name of the theme
+msgid "Contributor Page"
+msgstr "עמוד כותבים"
+
+#. translators: %s: Tag title.
+#: tag.php:25
+msgid "Tag Archives: %s"
+msgstr "ארכיון תגיות: %s"
+
+#. translators: %s: Search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "תוצאות חיפוש: %s"
+
+#: inc/widgets.php:303
+msgid "Post format to show:"
+msgstr "פורמטים להצגה:"
+
+#: inc/widgets.php:300
+msgid "Number of posts to show:"
+msgstr "כמות הפוסטים שיוצגו:"
+
+#: inc/widgets.php:297
+msgid "Title:"
+msgstr "כותרת:"
+
+#. translators: Used with More archives link.
+#: inc/widgets.php:243
+msgid "%s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s <span class=\"meta-nav\">&larr;</span>"
+
+#. translators: 1: Post permalink, 2: Number of images in the gallery.
+#: inc/widgets.php:198
+msgid "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photo</a>."
+msgid_plural "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photos</a>."
+msgstr[0] "גלריה זו מכילה <a href=\"%1$s\" rel=\"bookmark\">תמונה אחת</a>."
+msgstr[1] "הגלריה מכילה <a href=\"%1$s\" rel=\"bookmark\">%2$s תמונות</a>."
+
+#: inc/widgets.php:158 inc/widgets.php:208
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "להמשיך לקרוא <span class=\"meta-nav\">&larr;</span>"
+
+#: inc/widgets.php:108
+msgid "More asides"
+msgstr "הערות נוספות"
+
+#: taxonomy-post_format.php:30 inc/widgets.php:107
+msgid "Asides"
+msgstr "הערות"
+
+#: inc/widgets.php:103
+msgid "More galleries"
+msgstr "גלריות נוספות"
+
+#: taxonomy-post_format.php:48 inc/widgets.php:102
+msgid "Galleries"
+msgstr "גלריות"
+
+#: inc/widgets.php:99
+msgid "More links"
+msgstr "קישורים נוספים"
+
+#: inc/widgets.php:95
+msgid "More quotes"
+msgstr "ציטוטים נוספים"
+
+#: taxonomy-post_format.php:45 inc/widgets.php:98
+msgid "Links"
+msgstr "קישורים"
+
+#: taxonomy-post_format.php:42 inc/widgets.php:94
+msgid "Quotes"
+msgstr "ציטוטים"
+
+#: inc/widgets.php:91
+msgid "More audio"
+msgstr "קטעי אודיו נוספים"
+
+#: taxonomy-post_format.php:39 inc/widgets.php:90
+msgid "Audio"
+msgstr "אודיו"
+
+#: inc/widgets.php:87
+msgid "More videos"
+msgstr "קטעי ווידאו נוספים"
+
+#: taxonomy-post_format.php:36 inc/widgets.php:86
+msgid "Videos"
+msgstr "וידאו"
+
+#: inc/widgets.php:83
+msgid "More images"
+msgstr "תמונות נוספות"
+
+#: taxonomy-post_format.php:33 inc/widgets.php:82
+msgid "Images"
+msgstr "תמונות"
+
+#: inc/widgets.php:38
+msgid "Use this widget to list your recent Aside, Quote, Video, Audio, Image, Gallery, and Link posts."
+msgstr "השתמשו בוידג'ט זה כדי להציג הערות, ציטוטים, וידיאו, אודיו, תמונות, גלריות, וקישורים אחרונים."
+
+#: inc/widgets.php:35
+msgid "Twenty Fourteen Ephemera"
+msgstr "בר חלוף"
+
+#: inc/template-tags.php:111
+msgid "Sticky"
+msgstr "דביק"
+
+#: inc/template-tags.php:94
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr "<span class=\"meta-nav\">פוסט הבא</span>%title"
+
+#: inc/template-tags.php:93
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr "<span class=\"meta-nav\">פוסט קודם</span>%title"
+
+#: inc/template-tags.php:91
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr "<span class=\"meta-nav\">פורסם ב</span>%title"
+
+#: inc/template-tags.php:87
+msgid "Post navigation"
+msgstr "ניווט בפוסטים"
+
+#: inc/template-tags.php:60
+msgid "Posts navigation"
+msgstr "ניווט בין הפוסטים"
+
+#: inc/template-tags.php:52
+msgid "Next &rarr;"
+msgstr "&larr; הבא"
+
+#: inc/template-tags.php:51
+msgid "&larr; Previous"
+msgstr "הקודם &rarr;"
+
+#: inc/featured-content.php:423
+msgid "Don&rsquo;t display tag on front end."
+msgstr "אל תציג תגיות האתר."
+
+#: inc/featured-content.php:415
+msgid "Tag Name"
+msgstr "שם תגית"
+
+#. translators: %s: Twenty Fourteen documentation URL.
+#: inc/customizer.php:170
+msgid "For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s\">Twenty Fourteen documentation</a>."
+msgstr "למדריכים מעמיקים ומפורטים, וטיפים נוספים, גשו אל <a href=\"%s\">התיעוד של Twenty Fourteen</a>."
+
+#. translators: %s: Featured images documentation URL.
+#: inc/customizer.php:168
+msgid "Enhance your site design by using <a href=\"%s\">Featured Images</a> for posts you&rsquo;d like to stand out (also known as post thumbnails). This allows you to associate an image with your post without inserting it. Twenty Fourteen uses featured images for posts and pages&mdash;above the title&mdash;and in the Featured Content area on the home page."
+msgstr "שפרו את עיצוב האתר תוך שימוש ב<a href=\"%s\">תמונות ראשיות</a> לתכנים. הדבר מאפשר לשייך תמונות לתכנים מבלי להכניס אותן לתוכן. התבנית Twenty Fourteen עושה שימוש בתמונות ראשיות לפוסטים ועמודים, מעל לכותרת ובאזור התכנים המקודמים בעמוד הבית."
+
+#. translators: 1: Featured tag editor URL, 2: Post editor URL, 3: Customizer
+#. URL, 4: Post editor URL.
+#: inc/customizer.php:166
+msgid "The home page features your choice of up to 6 posts prominently displayed in a grid or slider, controlled by a <a href=\"%1$s\">tag</a>; you can change the tag and layout in <a href=\"%2$s\">Appearance &rarr; Customize</a>. If no posts match the tag, <a href=\"%3$s\">sticky posts</a> will be displayed instead."
+msgstr "מאפייני העמוד הראשי מאפשרים להציג עד 6 פוסטים המוצגים באופן קבוע ברשת או בסליידר, דרך <a href=\"%1$s\">התגית הזו</a>; ניתן לשנות את התגית והפריסה במסך <a href=\"%2$s\">עיצוב &larr; התאמה אישית</a>. אם אין פוסטים בתגית, יוצגו במקום זאת <a href=\"%3$s\">הפוסטים הדביקים</a>."
+
+#: inc/customizer.php:90
+msgid "Slider"
+msgstr "סליידר"
+
+#: inc/customizer.php:89
+msgid "Grid"
+msgstr "רשת"
+
+#: inc/customizer.php:85
+msgid "Layout"
+msgstr "פריסה"
+
+#. translators: 1: Featured tag editor URL, 2: Post editor URL, 3: Customizer
+#. URL, 4: Post editor URL.
+#: inc/customizer.php:65 inc/customizer.php:166 inc/featured-content.php:385
+#: inc/featured-content.php:397 inc/featured-content.php:463
+msgctxt "featured content default tag slug"
+msgid "featured"
+msgstr "featured"
+
+#. translators: 1: Featured tag editor URL, 2: Post editor URL.
+#: inc/customizer.php:64 inc/featured-content.php:384
+msgid "Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr "השתמשו ב<a href=\"%1$s\">תגית</a> כדי לקדם תכנים בעמוד הראשי. אם לא ימצאו תכנים עם התגית הזו, יוצגו במקום <a href=\"%2$s\">הפוסטים הדביקים</a>."
+
+#: inc/customizer.php:61 inc/featured-content.php:381
+msgid "Featured Content"
+msgstr "תוכן ראשי"
+
+#: inc/customizer.php:50 inc/customizer.php:51
+msgid "May only be visible on wide screens."
+msgstr "מוצג רק במסכים רחבים."
+
+#: inc/customizer.php:53 inc/customizer.php:54
+msgid "Background may only be visible on wide screens."
+msgstr "רקע האתר נראה רק במסכים רחבים במיוחד."
+
+#: inc/customizer.php:46
+msgid "Display Site Title &amp; Tagline"
+msgstr "הצג כותרת ותיאור אתר"
+
+#: inc/customizer.php:43
+msgid "Site Title Color"
+msgstr "צבע כותרת אתר"
+
+#. translators: %s: WordPress version.
+#: inc/back-compat.php:38 inc/back-compat.php:50 inc/back-compat.php:67
+msgid "Twenty Fourteen requires at least WordPress version 3.6. You are running version %s. Please upgrade and try again."
+msgstr "דרישת המינימום להפעלת התבנית Twenty Fourteen היא וורדפרס בגרסה 3.6. האתר מפעיל וורדפרס בגרסה %s. יש לשדרג את גרסת וורדפרס ולנסות שנית."
+
+#: image.php:69
+msgid "Next Image"
+msgstr "תמונה הבאה"
+
+#: image.php:68
+msgid "Previous Image"
+msgstr "תמונה קודמת"
+
+#: header.php:54
+msgid "Skip to content"
+msgstr "לדלג לתוכן"
+
+#: header.php:53
+msgid "Primary Menu"
+msgstr "תפריט ראשי"
+
+#: header.php:49
+msgid "Search"
+msgstr "חיפוש"
+
+#. translators: %s: Page number.
+#: functions.php:644
+msgid "Page %s"
+msgstr "עמוד %s"
+
+#. translators: %d: Post count.
+#: functions.php:523
+msgid "%d Article"
+msgid_plural "%d Articles"
+msgstr[0] "מאמר %d"
+msgstr[1] "%d מאמרים"
+
+#: functions.php:362
+msgid "Next"
+msgstr "לשלב הבא"
+
+#: functions.php:361
+msgid "Previous"
+msgstr "קודם"
+
+#: functions.php:309
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:286
+msgid "Appears in the footer section of the site."
+msgstr "מוצג בחלק התחתון של האתר."
+
+#: functions.php:284
+msgid "Footer Widget Area"
+msgstr "אזור וידג&#8216;טים תחתון"
+
+#: functions.php:275
+msgid "Additional sidebar that appears on the right."
+msgstr "סרגל צדדי נוסף שמופיע משמאל."
+
+#: functions.php:273
+msgid "Content Sidebar"
+msgstr "תוכן סרגל צדדי"
+
+#: functions.php:264
+msgid "Main sidebar that appears on the left."
+msgstr "הסרגל צדדי הראשי מופיע מימין."
+
+#: functions.php:262
+msgid "Primary Sidebar"
+msgstr "סרגל צדדי ראשי"
+
+#: functions.php:131
+msgid "Secondary menu in left sidebar"
+msgstr "תפריט משנה בסרגל הצדדי"
+
+#: functions.php:130
+msgid "Top primary menu"
+msgstr "תפריט עליון ראשי"
+
+#. translators: %s: WordPress
+#: footer.php:29
+msgid "Proudly powered by %s"
+msgstr "פועל על %s"
+
+#: content-none.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "נראה שלא הצלחנו למצוא את מה שחיפשת. ייתכן שביצוע חיפוש יסייע."
+
+#: content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "לא נמצאו תוצאות התואמות לביטוי החיפוש, ניתן לנסות שוב עם ביטויים אחרים."
+
+#. translators: %s: Post editor URL.
+#: content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "מוכן לפרסם את הפוסט הראשון שלך? <a href=\"%s\">התחל כאן</a>."
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "לא מצאתי כלום"
+
+#: content-quote.php:56 content.php:65 content-audio.php:56
+#: content-image.php:56 content-video.php:56 image.php:56 content-page.php:23
+#: content-link.php:56 content-gallery.php:56 content-aside.php:56
+msgid "Pages:"
+msgstr ":עמודים"
+
+#. translators: %s: Post title.
+#: content-quote.php:49 content.php:58 content-audio.php:49
+#: content-image.php:49 content-video.php:49 content-link.php:49
+#: inc/template-tags.php:230 content-gallery.php:49 content-aside.php:49
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "להמשיך לקרוא %s <span class=\"meta-nav\">&larr;</span>"
+
+#: page-templates/contributors.php:36 content-quote.php:40 content.php:43
+#: content-audio.php:40 content-image.php:40 content-video.php:40 image.php:35
+#: content-page.php:30 content-link.php:40 content-gallery.php:40
+#: content-aside.php:40
+msgid "Edit"
+msgstr "עריכה"
+
+#: content-quote.php:37 content.php:39 content-audio.php:37
+#: content-image.php:37 content-video.php:37 content-link.php:37
+#: inc/widgets.php:231 content-gallery.php:37 content-aside.php:37
+msgid "% Comments"
+msgstr "% תגובות"
+
+#: content-quote.php:37 content.php:39 content-audio.php:37
+#: content-image.php:37 content-video.php:37 content-link.php:37
+#: inc/widgets.php:231 content-gallery.php:37 content-aside.php:37
+msgid "1 Comment"
+msgstr "תגובה אחת"
+
+#: content-quote.php:37 content.php:39 content-audio.php:37
+#: content-image.php:37 content-video.php:37 content-link.php:37
+#: inc/widgets.php:231 content-gallery.php:37 content-aside.php:37
+msgid "Leave a comment"
+msgstr "כתיבת תגובה"
+
+#: content-quote.php:17 content.php:19 content-audio.php:17
+#: content-image.php:17 content-video.php:17 content-featured-post.php:28
+#: content-link.php:17 content-gallery.php:17 content-aside.php:17
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "סגור לתגובות."
+
+#: comments.php:52 comments.php:72
+msgid "Newer Comments &rarr;"
+msgstr "תגובות חדשות יותר &larr;"
+
+#: comments.php:51 comments.php:71
+msgid "&larr; Older Comments"
+msgstr "&rarr; תגובות ישנות יותר"
+
+#: comments.php:50 comments.php:70
+msgid "Comment navigation"
+msgstr "ניווט בתגובות"
+
+#. translators: %s: Category title.
+#: category.php:23
+msgid "Category Archives: %s"
+msgstr "ארכיון הקטגוריה: %s"
+
+#. translators: %s: Author display name.
+#: author.php:32
+msgid "All posts by %s"
+msgstr "כל הפוסטים של %s"
+
+#: archive.php:40 taxonomy-post_format.php:51
+msgid "Archives"
+msgstr "ארכיון"
+
+#. translators: %s: Date.
+#: archive.php:38
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: %s: Date.
+#: archive.php:38
+msgid "Yearly Archives: %s"
+msgstr "ארכיון שנתי: %s"
+
+#. translators: %s: Date.
+#: archive.php:35
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: %s: Date.
+#: archive.php:35
+msgid "Monthly Archives: %s"
+msgstr "ארכיון חודשי: %s"
+
+#. translators: %s: Date.
+#: archive.php:32
+msgid "Daily Archives: %s"
+msgstr "ארכיון יומי: %s"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "נראה שלא נמצא כלום במיקום הזה. אולי תנסו לחפש?"
+
+#: 404.php:17
+msgid "Not Found"
+msgstr "לא נמצא"
+
+#. Author URI of the theme
+#: footer.php:26
+msgid "https://wordpress.org/"
+msgstr "https://he.wordpress.org/"
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "צוות וורדפרס"
+
+#. Theme URI of the theme
+msgid "https://wordpress.org/themes/twentyfourteen/"
+msgstr "https://he.wordpress.org/themes/twentyfourteen/"
